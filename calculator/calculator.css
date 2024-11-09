@@ -1,0 +1,93 @@
+body{
+    margin: 0;
+    background: rgb(235,234,225);
+    background: linear-gradient(90deg, rgba(235,234,225,1) 32%, rgba(155,230,202,1) 69%);
+}
+h1{
+    text-align:left;
+    padding:8px;
+    background: rgb(244,220,2);
+    background: linear-gradient(90deg, rgba(244,220,2,1) 26%, rgba(9,61,240,1) 69%);
+    width: fit-content;
+    height: fit-content;
+}
+.form>input{
+    display: block;
+    width: 150px;
+    height:50px;
+    margin-top: 200px;
+    border-radius: 10px;
+    margin-left: 540px;
+    border: 1 solid black;
+
+    
+ 
+  
+}
+.btn{
+    gap: 2px;
+    background: rgb(235,224,11);
+    background: linear-gradient(90deg, rgba(235,224,11,1) 32%, rgba(18,234,246,1) 70%);
+    margin-left: 540px;
+    margin-top: 7px;
+    margin-bottom: 100px;
+    margin-right: 200px;
+    border: 1 solid black;
+    border-radius: 10px;
+
+}
+.btn>buttons{
+    background-color: blue;
+    font-size: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    text-align: center;
+    margin: 10px;
+    
+
+
+}
+.buttons{
+    background-color: green;
+    row-gap: 2px;
+    
+    
+    
+    
+
+
+}
+
+
+.buttons1{
+    background-color: aliceblue;
+    row-gap: 2px;
+    
+
+
+
+}
+
+
+.buttons2{
+    background-color: chartreuse;
+    row-gap: 2px;
+    
+
+
+}
+
+.buttons3{
+    background-color: darkblue;
+    row-gap: 2px;
+    
+
+}
+
+
+.buttons4{
+    background-color:darkcyan;
+    row-gap: 2px;
+    
+
+}
